@@ -1008,7 +1008,7 @@
 	<entry id="40018" string="Stream">स्ट्रीम</entry>
 	<entry id="40019" string="Frame length">फ्रेम की लंबाई</entry>
 	<entry id="40020" string="Options">विकल्प</entry>
-	<entry id="40021" string="Enable discontinous transmission">बंद संचरण सक्षम करें</entry>
+	<entry id="40021" string="Enable discontinuous transmission">बंद संचरण सक्षम करें</entry>
 	<entry id="40022" string="Expected packet loss">एक्सपेक्टेड पैकेट लोस्स</entry>
       </section>
 

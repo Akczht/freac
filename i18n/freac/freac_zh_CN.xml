@@ -1077,7 +1077,7 @@
 	<entry id="40018" string="Stream">流媒体</entry>
 	<entry id="40019" string="Frame length">帧长度</entry>
 	<entry id="40020" string="Options">选项</entry>
-	<entry id="40021" string="Enable discontinous transmission">启用不连续传输</entry>
+	<entry id="40021" string="Enable discontinuous transmission">启用不连续传输</entry>
 	<entry id="40022" string="Expected packet loss">期望包损失</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">禁用强度立体相反转</entry>
       </section>

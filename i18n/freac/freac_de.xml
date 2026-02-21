@@ -1082,7 +1082,7 @@
 	<entry id="40018" string="Stream">Datenstrom</entry>
 	<entry id="40019" string="Frame length">Framelänge</entry>
 	<entry id="40020" string="Options">Optionen</entry>
-	<entry id="40021" string="Enable discontinous transmission">Discontinous Transmission aktivieren</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Discontinous Transmission aktivieren</entry>
 	<entry id="40022" string="Expected packet loss">Erwarteter Paketverlust</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">Phasenumkehr bei Intensity Stereo deaktivieren</entry>
       </section>

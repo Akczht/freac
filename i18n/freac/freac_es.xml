@@ -1076,7 +1076,7 @@
 	<entry id="40018" string="Stream">Flujo</entry>
 	<entry id="40019" string="Frame length">Duración del cuadro</entry>
 	<entry id="40020" string="Options">Opciones</entry>
-	<entry id="40021" string="Enable discontinous transmission">Permitir transmisión discontinua</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Permitir transmisión discontinua</entry>
 	<entry id="40022" string="Expected packet loss">Pérdida de paquete esperada</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">Desactivar la inversión de fase en modo estéreo intensiva</entry>
       </section>

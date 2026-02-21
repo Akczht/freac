@@ -1076,7 +1076,7 @@
 	<entry id="40018" string="Stream">Flux</entry>
 	<entry id="40019" string="Frame length">Mida del quadre</entry>
 	<entry id="40020" string="Options">Opcions</entry>
-	<entry id="40021" string="Enable discontinous transmission">Habilita la transmissió discontínua</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Habilita la transmissió discontínua</entry>
 	<entry id="40022" string="Expected packet loss">Pèrdua de paquets esperada</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">Desactiva la inversió de fase estéreo d'intensitat</entry>
       </section>

@@ -1076,7 +1076,7 @@
 	<entry id="40018" string="Stream">Поток</entry>
 	<entry id="40019" string="Frame length">Времетраене</entry>
 	<entry id="40020" string="Options">Опции</entry>
-	<entry id="40021" string="Enable discontinous transmission">Включен непрекъснат трансфер</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Включен непрекъснат трансфер</entry>
 	<entry id="40022" string="Expected packet loss">Очакван пакет loss(със загуба)</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">Деактивиране стерео фазовото обръщане(инверсия) на интензитета</entry>
       </section>

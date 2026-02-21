@@ -1097,7 +1097,7 @@ Information about Corsican localization:
 	<entry id="40018" string="Stream">Flussu</entry>
 	<entry id="40019" string="Frame length">Durata di sequenza</entry>
 	<entry id="40020" string="Options">Ozzioni</entry>
-	<entry id="40021" string="Enable discontinous transmission">Attivà a trasmissione discuntinuu</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Attivà a trasmissione discuntinuu</entry>
 	<entry id="40022" string="Expected packet loss">Perdita aspettata di pacchettu</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">Disattivà l’inversione di fasa per l’intensità stereo</entry>
       </section>

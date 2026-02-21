@@ -1004,7 +1004,7 @@
 	<entry id="40018" string="Stream">رشته</entry>
 	<entry id="40019" string="Frame length">طول فريم</entry>
 	<entry id="40020" string="Options">تنظيمات</entry>
-	<entry id="40021" string="Enable discontinous transmission">انتقال ناپيوسته فعال شود</entry>
+	<entry id="40021" string="Enable discontinuous transmission">انتقال ناپيوسته فعال شود</entry>
 	<entry id="40022" string="Expected packet loss">Packet loss مورد انتظار</entry>
       </section>
 

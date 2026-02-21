@@ -1034,7 +1034,7 @@
 	<entry id="40018" string="Stream">Flux</entry>
 	<entry id="40019" string="Frame length">Lungime cadru</entry>
 	<entry id="40020" string="Options">Optiuni</entry>
-	<entry id="40021" string="Enable discontinous transmission">Porneste transmiterea discontinua</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Porneste transmiterea discontinua</entry>
 	<entry id="40022" string="Expected packet loss">Asteptare pachete pierdute</entry>
       </section>
 

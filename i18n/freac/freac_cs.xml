@@ -1068,7 +1068,7 @@
 	<entry id="40018" string="Stream">Stream (datový tok)</entry>
 	<entry id="40019" string="Frame length">Délka rámců (bloků)</entry>
 	<entry id="40020" string="Options">Volby</entry>
-	<entry id="40021" string="Enable discontinous transmission">Povolit diskontinuální přenos</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Povolit diskontinuální přenos</entry>
 	<entry id="40022" string="Expected packet loss">Očekávaná ztráta paketů</entry>
       </section>
 

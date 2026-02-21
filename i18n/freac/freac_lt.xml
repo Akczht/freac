@@ -1031,7 +1031,7 @@
 	<entry id="40018" string="Stream">Srautas</entry>
 	<entry id="40019" string="Frame length">Kadro ilgis</entry>
 	<entry id="40020" string="Options">Pasirinktys</entry>
-	<entry id="40021" string="Enable discontinous transmission">Įjungti nutrūkstantį perdavimą</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Įjungti nutrūkstantį perdavimą</entry>
 	<entry id="40022" string="Expected packet loss">Numanomas paketų praradimas</entry>
       </section>
 

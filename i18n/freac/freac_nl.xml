@@ -1034,7 +1034,7 @@
 	<entry id="40018" string="Stream">Stream</entry>
 	<entry id="40019" string="Frame length">Frame-lengte</entry>
 	<entry id="40020" string="Options">Opties</entry>
-	<entry id="40021" string="Enable discontinous transmission">Discontinue transmissie inschakelen</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Discontinue transmissie inschakelen</entry>
 	<entry id="40022" string="Expected packet loss">Verwacht pakketverlies</entry>
       </section>
 

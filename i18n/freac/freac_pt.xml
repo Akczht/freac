@@ -1076,7 +1076,7 @@
 	<entry id="40018" string="Stream">Stream</entry>
 	<entry id="40019" string="Frame length">Comprimento do quadro</entry>
 	<entry id="40020" string="Options">Opções</entry>
-	<entry id="40021" string="Enable discontinous transmission">Ativar transmissão descontínua</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Ativar transmissão descontínua</entry>
 	<entry id="40022" string="Expected packet loss">Perda de pacotes esperada</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">Desativar a fase de inversão da intensidade estéreo</entry>
       </section>

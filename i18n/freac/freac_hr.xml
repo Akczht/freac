@@ -998,7 +998,7 @@
 	<entry id="40018" string="Stream">Stream</entry>
 	<entry id="40019" string="Frame length">Duljina okvira</entry>
 	<entry id="40020" string="Options">Opcije</entry>
-	<entry id="40021" string="Enable discontinous transmission">Omogući isprekidani prijenos</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Omogući isprekidani prijenos</entry>
 	<entry id="40022" string="Expected packet loss">Očekivani gubitak paketa</entry>
       </section>
 

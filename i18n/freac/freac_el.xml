@@ -1076,7 +1076,7 @@
 	<entry id="40018" string="Stream">Ροή</entry>
 	<entry id="40019" string="Frame length">Μήκος πλαισίου</entry>
 	<entry id="40020" string="Options">Επιλογές</entry>
-	<entry id="40021" string="Enable discontinous transmission">Ενεργοποίηση ασυνεχούς μετάδοσης</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Ενεργοποίηση ασυνεχούς μετάδοσης</entry>
 	<entry id="40022" string="Expected packet loss">Αναμενόμενη απώλεια πακέτων</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">Απενεργοποίηση αντιστροφής στερεοφωνικής φάσης έντασης</entry>
       </section>

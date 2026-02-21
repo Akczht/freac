@@ -1076,7 +1076,7 @@
 	<entry id="40018" string="Stream">Tok</entry>
 	<entry id="40019" string="Frame length">Dužina frejma</entry>
 	<entry id="40020" string="Options">Opcije</entry>
-	<entry id="40021" string="Enable discontinous transmission">Omogući nestalan prenos</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Omogući nestalan prenos</entry>
 	<entry id="40022" string="Expected packet loss">Očekivani gubitak</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">Onemogući intenzitet stereo inverzije</entry>
       </section>

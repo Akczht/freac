@@ -1060,7 +1060,7 @@
 	<entry id="40018" string="Stream">Virta</entry>
 	<entry id="40019" string="Frame length">Kehyksen pituus</entry>
 	<entry id="40020" string="Options">Asetukset</entry>
-	<entry id="40021" string="Enable discontinous transmission">Ota epäjatkuva lähetys käyttöön</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Ota epäjatkuva lähetys käyttöön</entry>
 	<entry id="40022" string="Expected packet loss">Odotettu pakettihävikki</entry>
       </section>
 

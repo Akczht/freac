@@ -1075,7 +1075,7 @@
 	<entry id="40018" string="Stream">Diffuser</entry>
 	<entry id="40019" string="Frame length">Longueur de trame</entry>
 	<entry id="40020" string="Options">Options</entry>
-	<entry id="40021" string="Enable discontinous transmission">Activer la transmission intermitente</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Activer la transmission intermitente</entry>
 	<entry id="40022" string="Expected packet loss">Perte de paquets attendue</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">Désactiver l’inversion d’intensité de phase stéréo</entry>
       </section>

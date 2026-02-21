@@ -1076,7 +1076,7 @@
 	<entry id="40018" string="Stream">Поток</entry>
 	<entry id="40019" string="Frame length">Длина кадра</entry>
 	<entry id="40020" string="Options">Настройки</entry>
-	<entry id="40021" string="Enable discontinous transmission">Разрешить непрерывную передачу</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Разрешить непрерывную передачу</entry>
 	<entry id="40022" string="Expected packet loss">Ожидаемая потеря пакетов</entry>
 	<entry id="40023" string="Disable intensity stereo phase inversion">Отключить инверсию фазы интенсивности стерео</entry>
       </section>

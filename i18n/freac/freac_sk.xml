@@ -1031,7 +1031,7 @@
 	<entry id="40018" string="Stream">Stream</entry>
 	<entry id="40019" string="Frame length">Dĺžka rámca</entry>
 	<entry id="40020" string="Options">Možnosti</entry>
-	<entry id="40021" string="Enable discontinous transmission">Povoliť discontinuous transmission</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Povoliť discontinuous transmission</entry>
 	<entry id="40022" string="Expected packet loss">Očakávaná strata</entry>
       </section>
 

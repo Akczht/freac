@@ -874,7 +874,7 @@
 	<entry id="40018" string="Stream">串流</entry>
 	<entry id="40019" string="Frame length">格長</entry>
 	<entry id="40020" string="Options">選項</entry>
-	<entry id="40021" string="Enable discontinous transmission">啟用分段傳送</entry>
+	<entry id="40021" string="Enable discontinuous transmission">啟用分段傳送</entry>
 	<entry id="40022" string="Expected packet loss">預期傳輸包丟失</entry>
       </section>
 

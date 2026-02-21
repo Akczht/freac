@@ -1004,7 +1004,7 @@
 	<entry id="40018" string="Stream">Stream</entry>
 	<entry id="40019" string="Frame length">Billede længde</entry>
 	<entry id="40020" string="Options">Indstillinger</entry>
-	<entry id="40021" string="Enable discontinous transmission">Aktiver afbrudt udsendelse</entry>
+	<entry id="40021" string="Enable discontinuous transmission">Aktiver afbrudt udsendelse</entry>
 	<entry id="40022" string="Expected packet loss">Forvented pakke tab</entry>
       </section>
 
