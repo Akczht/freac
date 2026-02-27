@@ -1,0 +1,43 @@
+From c530094013c9c708b0f968552e6814293283998a Mon Sep 17 00:00:00 2001
+From: Akshat <79302042+Akczht@users.noreply.github.com>
+Date: Sun, 21 Dec 2025 20:07:23 +0530
+Subject: [PATCH] Replace Illegal Character with Full-Width Ones, if Allow
+ Unicode is true
+
+---
+ runtime/common/utilities.cpp | 18 +++++++++---------
+ 1 file changed, 9 insertions(+), 9 deletions(-)
+
+diff --git a/runtime/common/utilities.cpp b/runtime/common/utilities.cpp
+index d11601df..63743771 100755
+--- a/runtime/common/utilities.cpp
++++ b/runtime/common/utilities.cpp
+@@ -198,17 +198,17 @@ String BoCA::Utilities::ReplaceIncompatibleCharacters(const String &string, Bool
+
+                /* Replace other characters.
+                 */
+-               if      (character == '\"')                  { result[p] = '\''; result[++p] = '\''; }
++               if      (character == '\"')                  { result[p] = useUnicode ? L'＂' : '\''; if (!useUnicode) result[++p] = '\''; }
+                else if (character == '\n')                    p--;
+                else if (character == '\r')                    p--;
+-               else if (character == '?')                     p--;
+-               else if (character == '|')                     result[p] = '_';
+-               else if (character == '*')                     p--;
+-               else if (character == '<')                     result[p] = '(';
+-               else if (character == '>')                     result[p] = ')';
+-               else if (character == ':')                     p--;
+-               else if (character == '/'  &&  replaceSlashes) result[p] = '-';
+-               else if (character == '\\' &&  replaceSlashes) result[p] = '-';
++               else if (character == '?')                     result[p] = useUnicode ? L'？' : p--;
++               else if (character == '|')                     result[p] = useUnicode ? L'｜' : '_';
++               else if (character == '*')                     result[p] = useUnicode ? L'＊' : p--;
++               else if (character == '<')                     result[p] = useUnicode ? L'＜' : '(';
++               else if (character == '>')                     result[p] = useUnicode ? L'＞' : ')';
++               else if (character == ':')                     result[p] = useUnicode ? L'：' : p--;
++               else if (character == '/'  &&  replaceSlashes) result[p] = useUnicode ? L'／' : '-';
++               else if (character == '\\' &&  replaceSlashes) result[p] = useUnicode ? L'＼' : '-';
+                else if (character == ' '  &&  replaceSpaces)  result[p] = '_';
+                else if (character == '\t' &&  replaceSpaces)  result[p] = '_';
+                else if (character == '\t')                    result[p] = ' ';
+--
+2.52.0
