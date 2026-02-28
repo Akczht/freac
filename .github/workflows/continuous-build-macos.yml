@@ -43,6 +43,6 @@ jobs:
       - name: Upload to GitHub Releases
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: freac-${{ github.run_number }}
+          tag_name: ${{ github.run_number }}
           name: freac continuous (${{ github.run_number }})
           files: freac-continuous-macos*.dmg    
