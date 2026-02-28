@@ -6,9 +6,8 @@ set -e
 # Number of parallel jobs + arm64 only
 jobs=$(sysctl -n hw.activecpu)
 export BUILD_ARM64=True
-export CFLAGS="-O3 -flto"
-export CXXFLAGS="-O3 -flto -fno-rtti -fno-exceptions"
-export LDFLAGS="-flto"
+export CFLAGS="-O3"
+export CXXFLAGS="-O3 -fno-rtti -fno-exceptions"
 
 # Build libcdio
 cd tools
